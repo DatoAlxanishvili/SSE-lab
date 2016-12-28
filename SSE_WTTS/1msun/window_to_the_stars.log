@@ -1,0 +1,33 @@
+TWIN/STARS (svn r1685)
+
+  -3 -- FGB2HB -- failed to read init.dat
+  -2 -- BEGINN -- requested mesh too large
+  -1 -- STAR12 -- no timesteps required
+   0 -- STAR12 -- finished required timesteps OK
+   1 -- SOLVER -- failed; backup, reduce timestep
+   2 -- BACKUP -- tstep reduced below limit; quit
+   3 -- NEXTDT -- *2 evolving beyond last *1 model
+   4 -- PRINTB -- *1 rstar exceeds rlobe by limit
+   5 -- PRINTB -- age greater than limit
+   6 -- PRINTB -- C-burning exceeds limit
+   7 -- PRINTB -- *2 radius exceeds rlobe by limit
+   8 -- PRINTB -- close to He flash
+   9 -- PRINTB -- massive (>1.2 msun) deg. C/O core
+  10 -- PRINTB -- |M1dot| exceeds limit
+  11 -- NEXTDT -- impermissible FDT for *2
+  14 -- PRINTB -- funny compos. distribution
+  15 -- STAR12 -- terminated by hand
+  16 -- MAIN   -- ZAHB didnt converge
+  17 -- BEGINN -- Nucleosynthesis didn't converge
+  18 -- PRINTB -- mass exceeds limit
+  51 -- PRINTB -- end of MS (core H below limit)
+  52 -- PRINTB -- Radius exceeds limit
+  53 -- PRINTB -- Convergence to target model reached minimum
+  54 -- PRINTB -- He-burning exceeds limit
+  12, 22, 32 -- as 2, core H, He, C non-zero, resp.
+ 
+ CODE*1 C*2  log(Mi)   log(Qi)   log(Pi)  Modl  JMOD 27-JOP:
+   15   -1   0.00000  -3.30103  10.00000  856    0   13
+
+  Terminated by hand -  Evolution done, run (wall) time:   155.4s.
+

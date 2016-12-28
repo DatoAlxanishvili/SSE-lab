@@ -1,0 +1,27 @@
+TWIN/STARS (svn r1685)
+
+The code was started on: 2016-12-27 19:56:55 UT20161
+By: dato@
+Directory: /home/dato/SSE_WTTS/1msun
+
+evpath: /home/dato/wtts
+
+install_path: /usr/local/stars
+
+Using file /home/dato/wtts/input/zahb02.mod for unit  12
+Using file /home/dato/wtts/input/zahb.dat for unit  24
+Using file /home/dato/wtts/input/zams/zams02.mod for unit  16
+Using file /home/dato/wtts/input/zams/zams02.mas for unit  19
+Using file /home/dato/wtts/input/metals/z02/phys.z02 for unit  20
+Using file /home/dato/wtts/input/lt2ubv.dat for unit  21
+Using file /home/dato/wtts/input/nucdata.dat for unit  26
+Using file /home/dato/wtts/input/mutate.dat for unit  63
+Using file window_to_the_stars.dat for unit  22
+Using file window_to_the_stars.run for unit  23
+Using file /home/dato/wtts/input/COtables/COtables_z02 for unit  41
+Using file /home/dato/wtts/input/physinfo.dat for unit  42
+Using file /home/dato/wtts/input/rates.dat for unit  43
+Using file /home/dato/wtts/input/nrates.dat for unit  44
+
+                file        M1i        M2i         qi         Pi
+ window_to_the_stars  1.000E+00  2.000E+03  5.000E-04  1.000E+10
